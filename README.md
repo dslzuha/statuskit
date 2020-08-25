@@ -13,9 +13,9 @@ Please make sure you understand its [implications and guarantees](https://writin
 
 This project is no longer being maintained by netlify staff. This is a community led project and if you are looking to support this project, please get in touch via an issue.
 
-### Netlify's Statement
+### Dslzuha's Statement
 
-> [dslzuha] doesn't currently have the staff to process such contributions.
+> [Dslzuha] doesn't currently have the staff to process such contributions.
 
 ## Initial configuration
 
