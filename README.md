@@ -1,3 +1,6 @@
+# Status badge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e303226-3c7f-49d0-929e-f06f7bc65bc7/deploy-status)](https://app.netlify.com/sites/statuskitsite/deploys)
+
 # Introduction
 
 StatusKit is a template to deploy your own Status pages on Netlify.
