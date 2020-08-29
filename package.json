@@ -1,5 +1,5 @@
 {
-  "name": "statusKit",
+  "name": "@dslzuha/statuskit",
   "version": "1.0.0",
   "description": "StatusKit is a template to build Status pages for your business",
   "main": "index.js",
@@ -34,9 +34,22 @@
     "postcss-loader": "^3.0.0",
     "postcss-preset-env": "^6.5.0",
     "tomlify-j0.4": "^3.0.0",
-    "tomljs": "^0.1.3"
+    "tomljs": "^0.1.3",
+    "fsevents": "^1.0.15"
   },
   "optionalDependencies": {
     "fsevents": "^1.0.15"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dslzuha/statuskit.git"
+  },
+  "keywords": [
+    "StatusKit"
+  ],
+  "bugs": {
+    "url": "https://github.com/dslzuha/statuskit/issues"
+  },
+  "homepage": "https://github.com/dslzuha/statuskit#readme"
 }
