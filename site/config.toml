@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "StatusKit"
+title = "StatusKitSite"
 
 [permalinks]
   incidents = "/incidents/:year/:month/:day/:slug/"
