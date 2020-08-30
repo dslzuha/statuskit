@@ -1,5 +1,6 @@
 # Status badge
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1e303226-3c7f-49d0-929e-f06f7bc65bc7/deploy-status)](https://app.netlify.com/sites/statuskitsite/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1e303226-3c7f-49d0-929e-f06f7bc65bc7/deploy-status)](https://app.netlify.com/sites/statuskitsite/deploys)     [![Build status](https://ci.appveyor.com/api/projects/status/5s531f855mvvjc2h?svg=true)](https://ci.appveyor.com/project/dslzuha/statuskit)
+
 
 # Introduction
 
