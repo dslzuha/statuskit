@@ -6,7 +6,7 @@
 
 StatusKit is a template to deploy your own Status pages on Netlify.
 
-[![Netlify StatusKit Demo](http://statuskitsite.netlify.com/statuskitsite.png)](https://statuskitsite.netlify.com/)
+[![Netlify StatusKit Demo](http://statuskit.netlify.com/statuskit.png)](https://statuskit.netlify.com/)
 
 Netlify StatusKit is released under the [MIT License](LICENSE).
 Please make sure you understand its [implications and guarantees](https://writing.kemitchell.com/2016/09/21/MIT-License-Line-by-Line.html).
