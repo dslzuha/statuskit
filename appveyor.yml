@@ -4,10 +4,3 @@ configuration: Debug, Release
 platform: Any CPU
 nuget:
   project_feed: true
-build:
-  publish_wap: true
-  publish_nuget: true
-  publish_nuget_symbols: true
-  use_snupkg_format: true
-  include_nuget_references: true
-  verbosity: minimal
