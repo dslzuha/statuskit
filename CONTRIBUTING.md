@@ -6,8 +6,8 @@ please read the [code of conduct](CODE_OF_CONDUCT.md).
 ## Setup
 
 ```sh
-$ git clone https://github.com/netlify/netlify-statuskit
-$ cd netlify-statuskit
+$ git clone https://github.com/dslzuha/statuskit
+$ cd statuskit
 $ npm install
 ```
 
